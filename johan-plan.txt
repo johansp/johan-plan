@@ -1,3 +1,2 @@
-- Ingin S3 bidang Human Computer Interaction
-- Menguasai bahasa Rust
+- Ingin S3 bidang Cybersecurity
 - Mempunyai Coffee shop
